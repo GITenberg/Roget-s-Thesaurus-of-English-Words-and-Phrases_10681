@@ -1,5 +1,8 @@
 _repo: Roget-s-Thesaurus-of-English-Words-and-Phrases_10681
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roget, Peter Mark
@@ -11,6 +14,8 @@ creator:
 description: Verbeterde herdruk van een in 1852 verschenen woordenlijst, waarin ten
   behoeve van vertalers en essayisten de woorden en hun synoniemen systematisch gerangschikt
   zijn naar hun gevoelswaarde; met alfabetisch register.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10681#Roget-s-Thesaurus-of-English-Words-and-Phrases
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
